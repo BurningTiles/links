@@ -1,0 +1,1 @@
+window.location.href = "https://skinny-ginger-66f.notion.site/Useful-Links-409ca82e7f094cc08b4b80a3094577a9"
